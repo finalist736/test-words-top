@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"finalistx.com/test/storage"
+	"github.com/finalist736/test-words-top/storage"
 )
 
 type TopWordsResult struct {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"finalistx.com/test/httpserver"
-	"finalistx.com/test/storage"
-	"finalistx.com/test/tcpserver"
+	"github.com/finalist736/test-words-top/httpserver"
+	"github.com/finalist736/test-words-top/storage"
+	"github.com/finalist736/test-words-top/tcpserver"
 )
 
 func main() {

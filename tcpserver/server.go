@@ -5,7 +5,7 @@ import (
 	"net"
 	"runtime"
 
-	"finalistx.com/test/storage"
+	"github.com/finalist736/test-words-top/storage"
 )
 
 var listener net.Listener
